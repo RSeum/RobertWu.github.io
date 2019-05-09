@@ -1,0 +1,84 @@
+header, nav, section, article, footer {
+         color: white;
+       }
+       header, footer {
+         text-align: center;
+         width: 100%;
+       }
+       header {
+         background-color: ;
+         font-size: 36px
+         font-weight: ;
+       }
+       nav {
+      clear: both;
+	border-bottom-style: solid;
+	border-top-style: solid;
+	border-color:;
+	border-width: 2px;
+	text-align: center;
+	font-size: 20px;
+	padding-top: 2px;
+	color:black;
+       }
+       section {
+         width: 85%;
+         background-color: ;
+         padding: 100px;
+         margin: 5px;
+       }
+       footer {
+         background-color: ;
+         font-size: 10px;
+       }
+.navv{
+       color: #33FFFF;
+       font-family: Comic Sans MS;
+       }
+.bg  {
+       z-index: -1;
+       position: relative;
+       
+
+       }
+.abt {
+       text-align: top;
+       }
+.chin{
+       font-family: DFKai-sb;
+       
+       
+       }
+.lne {
+       right:-1%;
+       positon: relative;
+       transform:rotate(90deg);
+       
+       }
+.ls  {
+       right:-5%;
+       position: relative;
+       }
+.rls  {
+       
+       position: relative;
+       }
+.bik  {
+       right:-20%;
+       transform:rotate(90deg);  
+       position: relative;
+       }
+.aaa  {
+       position: relative;
+       right:-20%;
+       }
+.eight{
+       position: relative;
+       left:-20%;
+       }
+.nine {
+       position: relative;
+       right:-20%
+       }
+
+
